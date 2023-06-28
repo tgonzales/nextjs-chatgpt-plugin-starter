@@ -13,6 +13,10 @@ const nextConfig = {
             key: 'Access-Control-Allow-Origin',
             value: 'https://chat.openai.com',
           },
+          {
+            key: 'Access-Control-Allow-Origin',
+            value: 'https://thesamur.ai',
+          },
         ],
       },
     ];
